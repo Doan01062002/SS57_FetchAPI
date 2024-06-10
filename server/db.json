@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "product_name": "Tên sản phẩm 2",
+      "image": "Hình ảnh 2",
+      "price": 2000,
+      "quantity": 20,
+      "created_at": "2023-06-02T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "product_name": "Tên sản phẩm 3",
+      "image": "Hình ảnh 3",
+      "price": 3000,
+      "quantity": 30,
+      "created_at": "2023-06-03T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "product_name": "Tên sản phẩm 4",
+      "image": "Hình ảnh 4",
+      "price": 4000,
+      "quantity": 40,
+      "created_at": "2023-06-04T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "product_name": "Tên sản phẩm 5",
+      "image": "Hình ảnh 5",
+      "price": 5000,
+      "quantity": 50,
+      "created_at": "2023-06-05T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "product_name": "Tên sản phẩm 6",
+      "image": "Hình ảnh 6",
+      "price": 6000,
+      "quantity": 60,
+      "created_at": "2023-06-06T00:00:00Z"
+    },
+    {
+      "id": 2093,
+      "product_name": "sản phẩm mới",
+      "image": "ảnh mới",
+      "price": 1000,
+      "quantity": 19,
+      "created_at": "2024-06-09T15:07:17.801Z"
+    },
+    {
+      "id": 4446,
+      "product_name": "sản phẩm mới",
+      "image": "ảnh mới",
+      "price": 1000,
+      "quantity": 19,
+      "created_at": "2024-06-09T15:07:33.739Z"
+    }
+  ],
+  "product_table": [
+    {
+      "id": 1,
+      "name": "Cam tươi",
+      "image": "https://traicaycaonghe.vn/wp-content/uploads/2021/02/cam-sanh-ngot-gia-re.jpg",
+      "prices": 12000,
+      "quantity": 12,
+      "created_at": "25/03/2024"
+    },
+    {
+      "id": 2,
+      "name": "Táo đỏ",
+      "image": "https://s7ap1.scene7.com/is/image/aia/an-tao-do-co-tac-dung-gi-%20Thumbnail:Extra-small?ts=1681705167114&dpr=on,2.625",
+      "prices": 15000,
+      "quantity": 20,
+      "created_at": "26/03/2024"
+    },
+    {
+      "id": 3,
+      "name": "Chuối chín",
+      "image": "https://daubepgiadinh.vn/wp-content/uploads/2017/01/cai-thien-tri-nho.jpg",
+      "prices": 10000,
+      "quantity": 25,
+      "created_at": "27/03/2024"
+    },
+    {
+      "id": 4,
+      "name": "Dưa hấu",
+      "image": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-asm/posts/dua-hau-4.webp",
+      "prices": 8000,
+      "quantity": 30,
+      "created_at": "28/03/2024"
+    }
+  ]
+}
